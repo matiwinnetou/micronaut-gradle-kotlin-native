@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: cardano-cli
+  server:
+    enabled: false
+  logo:
+    enabled: false
