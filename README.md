@@ -53,5 +53,5 @@ sdk use java 21-graalce
 ```
 
 ```
-mati@mczeladka-CF micronaut-gradle-kotlin-native % docker run cardano-cli:latest 5820786f023e000dcdc1860d93364ef460d0dd5ae14a91d198b2a8a52eece306985a
+docker run cardano-cli:latest 5820786f023e000dcdc1860d93364ef460d0dd5ae14a91d198b2a8a52eece306985a
 ```
